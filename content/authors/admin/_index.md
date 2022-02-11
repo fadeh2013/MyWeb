@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include copula, vine copula models, vine copula truncation/Pruning techniques, and mixture models
   matter.
 education:
   courses:
