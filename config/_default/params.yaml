@@ -125,11 +125,11 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
+    post: false
+    book: false
+    project: false
     publication: true
-    event: true
+    event: false
   disqus:
     shortname: ''
     show_count: true
