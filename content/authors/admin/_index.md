@@ -1,27 +1,27 @@
 ---
-bio: My research interests include copula, vine copula models, vine copula truncation/Pruning techniques, and mixture models
-  matter.
+bio: My research interests include copula, vine copula models, vine copula truncation/Pruning techniques, and mixture models.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: Queensland University of Technology
+    year: 2019
+  - course: Master in Mathematical Science (Research)
+    institution: Australian National University
+    year: 2013
+  - course: BSc in Mathematics
+    institution: Northern Border University
+    year: 2002
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Copula models
+- Vine Copula models
+- Pruning/Truncating Vine copula models
+- Mixture models
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Prince Sultan University
+  url: https://www.psu.edu.sa/
+role: Assistant Professor of Statistic
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,18 +31,18 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Fadhah4
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fadeh2013
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Dr. Fadhah Amer Alanazi
 ---
 
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
